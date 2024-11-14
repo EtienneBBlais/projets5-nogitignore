@@ -1,0 +1,41 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1731599218
+icon.svg::CompressedTexture2D::1374322914596704389::1730379499::1730660509::1::::<><>::
+label.gd::GDScript::-1::1731508542::0::1::::<>Label<>::
+main.tscn::PackedScene::3150966554309188884::1731520269::0::1::::<><>::res://scripts/main.gd<>res://addons/finite_state_machine/scripts/finite_state_machine.gd<>res://scripts/fsm/NetworkInitState.gd<>res://scripts/fsm/NetworkWaitingState.gd<>res://scripts/fsm/NetworkConnectingState.gd<>res://scripts/fsm/NetworkProcessState.gd<>res://assets/blend/voiture.gd<>uid://becp6khq8gjql::::res://assets/blend/parcours.blend<>uid://ca5fkbafihohs::::res://assets/blend/parcours.obj<>uid://7e1cirhhnuul::::res://assets/plaquette (2).blend<>uid://dn0km5blc0he6::::res://assets/blend/voiture.blend<>res://label.gd
+parcours_2.tscn::PackedScene::8816705333367768793::1731516027::0::1::::<><>::res://scripts/main.gd<>res://addons/finite_state_machine/scripts/finite_state_machine.gd<>res://scripts/fsm/NetworkInitState.gd<>res://scripts/fsm/NetworkWaitingState.gd<>res://scripts/fsm/NetworkConnectingState.gd<>res://scripts/fsm/NetworkProcessState.gd<>uid://becp6khq8gjql::::res://assets/blend/parcours.blend<>uid://ca5fkbafihohs::::res://assets/blend/parcours.obj<>uid://dn0km5blc0he6::::res://assets/blend/voiture.blend<>res://assets/blend/voiture.gd<>uid://7e1cirhhnuul::::res://assets/plaquette (2).blend<>res://temoins.gd<>res://label.gd
+plaquette.tscn::PackedScene::5050611748275632614::1730905130::0::1::::<><>::
+::res://addons/::1730379499
+::res://addons/finite_state_machine/::1730379499
+plugin.cfg::TextFile::-1::1730379499::0::1::::<><>::
+plugin.gd::GDScript::-1::1730379499::0::1::::<>EditorPlugin<>::
+readme.md::TextFile::-1::1730379499::0::1::::<><>::
+::res://addons/finite_state_machine/icons/::1730660509
+finite_state_machine.svg::CompressedTexture2D::4888590432077469794::1730379499::1730660509::1::::<><>::
+state_machine_state.svg::CompressedTexture2D::2400681936130987388::1730379499::1730660509::1::::<><>::
+::res://addons/finite_state_machine/scripts/::1730379499
+finite_state_machine.gd::GDScript::-1::1730379499::0::1::::FiniteStateMachine<>Node<>res://addons/finite_state_machine/icons/finite_state_machine.svg::
+state_machine_state.gd::GDScript::-1::1730379499::0::1::::StateMachineState<>Node<>res://addons/finite_state_machine/icons/state_machine_state.svg::
+::res://assets/::1731516060
+plaquette (2).blend::PackedScene::2255883167609426555::1730833348::1731516060::1::::<><>::
+::res://assets/3d/::1730660509
+cube.obj::Mesh::2276120490658223875::1730379499::1730660509::1::::<><>::
+supportBille.obj::Mesh::389967841751217455::1730379499::1730660509::1::::<><>::
+::res://assets/3d/uploads_files_2176038_SHC+Free+Cybertruck/::1730911165
+SHC Free Cybertruck.blend::PackedScene::7697697103358556972::1730379499::1730660509::1::::<><>::
+shc_free_cybertruck.gd::GDScript::-1::1730911165::0::1::::<>Node3D<>::
+::res://assets/blend/::1731519440
+parcours.blend::PackedScene::2672271465074343887::1730379499::1730674881::1::::<><>::
+parcours.obj::Mesh::4835094195672386192::1730674819::1730674877::1::::<><>::
+plaquette.obj::Mesh::6953029370612715225::1730833348::1730833539::1::::<><>::
+voiture.blend::PackedScene::8123956639428503883::1730911165::1731508947::1::::<><>::
+voiture.gd::GDScript::-1::1731519440::0::1::::<>Node3D<>::
+::res://plaquette/::1730905124
+::res://scripts/::1730833556
+main.gd::GDScript::-1::1730833556::0::1::::<>Node3D<>::
+::res://scripts/fsm/::1730833557
+NetworkClosingConnectionState.gd::GDScript::-1::1730833556::0::1::::NetworkFSMClosingConnectionState<>StateMachineState<>::
+NetworkConnectingState.gd::GDScript::-1::1730833557::0::1::::NetworkFSMConnectingState<>StateMachineState<>::
+NetworkInitState.gd::GDScript::-1::1730833557::0::1::::NetworkFSMInitState<>StateMachineState<>::
+NetworkProcessState.gd::GDScript::-1::1730833557::0::1::::NetworkFSMProcessState<>StateMachineState<>::
+NetworkWaitingState.gd::GDScript::-1::1730833557::0::1::::NetworkFSMWaitingState<>StateMachineState<>::

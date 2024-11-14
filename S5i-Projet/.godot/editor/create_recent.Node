@@ -1,0 +1,6 @@
+Label
+CSGSphere3D
+CollisionShape3D
+RigidBody3D
+CharacterBody3D
+MeshInstance3D
